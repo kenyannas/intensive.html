@@ -1,0 +1,72 @@
+
+<html>
+<head>
+	<title>About Dyanell</title>
+	<meta charset="utf-8">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="Simple Brown Background Templates">
+
+
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+
+
+
+
+</head>
+<body>
+
+
+	<div class="fb-like" data-href="https://www.facebook.com/SimpleWebsiteTemplates/" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-font="verdana"></div>
+
+
+	<div id="header">
+		<div>
+			<a href="/"><img class="logo" src="images/logo.png" width="960" height="100" alt="Simple Website Templates" title="Simple Website Templates"></a>
+			
+			<ul class="navigation">
+				<li>
+					<a class="active" href="/">Home</a>
+				</li>
+				<li>
+					<a href="about.html">Hobbies</a>
+				</li>
+				<li>
+					<a href="page.html">Animals</a>
+				</li>
+				<li>
+					<a href="page.html">Career</a>
+				</li>
+				
+        
+			</ul>
+		</div>
+	</div>
+	<div id="body">
+		<div id="content">
+			<div>
+				<div>
+					<h1>H1 - About Me</h1>
+
+						
+<h2>VideoGames</h2>
+<p> Gaming is one of my hobbies. Some of my favorites videogames include Fallout, The Witcher, Mass Effect and Resident Evil. </p>
+						
+<h2>Animals</h2>
+<p>I love animals. I currently own two dogs, a cat, and a gecko. I wish I could've been a vet instead of choosing computer science sometimes. </p>
+
+<h2>Music</h2>
+<p>I like to compose music on the piano and produce music for fun using logic pro. I don't take it too seriously but I would like if I could compose music for games or films when I get more professional tools</p>
+
+
+
+								
+	<div id="footer">
+		<p class="footer-menu"><img class="logo" alt="Logo Footer" src="" width="200px" height="50px"></p>
+		<p class="footer-menu">
+			<a href="/">Home</a> | <a href="page.html">About</a> | <a href="page.html">Page 1</a> | <a href="page.html">Page 2</a> | <a href="page.html">Page 3</a> |<a href="<a href="mailto:youremail@example.com?Subject=Contact" target="_top">Contact</a>
+		</p>
+		<p class="footer-menu">&copy; 2014 Simple Brown Background</p>
+	</div><!-- end footer -->
+</body>
+</html>
+
